@@ -6,4 +6,4 @@ def chord(y):
     chord = c_r - c_r * (1-taper) / (b/2) * y
     return chord 
 
-
+print("Hello World")
